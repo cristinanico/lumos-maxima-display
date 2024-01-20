@@ -14,9 +14,6 @@ Este proyecto surge a raíz de la convocatoria del Ministerio de Magia, que, tra
 - Funcionalidad 4: formulario de contacto
 
 
-## Acceso al proyecto
-http://beta.adalab.es/project-promo-u-module-1-team-5/
-
 ## Author
 
 @cristinanico
